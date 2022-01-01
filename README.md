@@ -6,3 +6,5 @@ See https://www.zsk.p.lodz.pl/~morawski/SCR&ES/Guides&Schematics/LPC2104_Color_L
 ![](https://github.com/sulaimanvali/colour_blocks_rotator_puzzle/blob/master/photos/rotator1.jpg)
 
 ![](https://github.com/sulaimanvali/colour_blocks_rotator_puzzle/blob/master/photos/rotator2.jpg)
+
+This game is a bit like 2D version of the rubik's cube. The objective is to rotate sets of 4 blocks until you achieve the target shown on the top left.
